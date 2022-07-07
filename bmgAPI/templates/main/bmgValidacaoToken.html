@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load bootstrap %}
+{% block content %}
+
+
+<form style = "color:black;" method="POST">
+    
+    {% csrf_token %}
+    <div class="conteudoCliente">
+        {{ validacaoToken|bootstrap }}
+    </div>    
+    
+    </br> <input type="submit" value="Submit">
+</form>
+   
+
+{% endblock content %}
