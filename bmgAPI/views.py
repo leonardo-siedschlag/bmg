@@ -46,13 +46,13 @@ def mandarSmsToken(nome , sobrenome, cpf, ddd, telefone, matricula, data_nascime
                 <login>soma.saudade</login>
                 <senha>1f485d8%</senha>
                 <cidade>JOINVILLE</cidade>
-                <cpf>97972991120</cpf>
-                <dataNascimento>1960-07-02T09:56:57</dataNascimento>
+                <cpf>01717736831</cpf>
+                <dataNascimento>1953-01-15T09:56:57</dataNascimento>
                 <ddd>"""+dd+"""</ddd>
                 <estado>SC</estado>
-                <matricula>1856999995</matricula>
-                <nome>JUCILENE SALES</nome>
-                <telefone>997418343</telefone>
+                <matricula>1487725385</matricula>
+                <nome>MARIA GORETE PIMENTA</nome>
+                <telefone>988234282</telefone>
                 </solicitacaoIN100>
             </web:inserirSolicitacao>
         </soapenv:Body>
